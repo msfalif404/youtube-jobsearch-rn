@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "youtube-job-search-rn",
+    "slug": "youtube-job-search-rn"
+  }
+}
